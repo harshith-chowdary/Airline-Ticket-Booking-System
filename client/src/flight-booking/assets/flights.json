@@ -1,0 +1,1547 @@
+{
+ "kind": "qpxExpress#tripsSearch",
+ "trips": {
+  "kind": "qpxexpress#tripOptions",
+  "requestId": "NYwPM3j5bhZHxABYp0Qgdg",
+  "data": {
+   "kind": "qpxexpress#data",
+   "airport": [
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "DUB",
+     "city": "DUB",
+     "name": "Dublin International"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "FRA",
+     "city": "FRA",
+     "name": "Frankfurt International"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "HAM",
+     "city": "HAM",
+     "name": "Hamburg Airport"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "LHR",
+     "city": "LON",
+     "name": "London Heathrow"
+    },
+    {
+     "kind": "qpxexpress#airportData",
+     "code": "ZRH",
+     "city": "ZRH",
+     "name": "Zurich Airport"
+    }
+   ],
+   "city": [
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "DUB",
+     "name": "Dublin"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "FRA",
+     "name": "Frankfurt"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "HAM",
+     "name": "Hamburg"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "LON",
+     "name": "London"
+    },
+    {
+     "kind": "qpxexpress#cityData",
+     "code": "ZRH",
+     "name": "Zurich"
+    }
+   ],
+   "aircraft": [
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "319",
+     "name": "Airbus A319"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "320",
+     "name": "Airbus A320"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "321",
+     "name": "Airbus A321"
+    },
+    {
+     "kind": "qpxexpress#aircraftData",
+     "code": "32A",
+     "name": "Airbus A320"
+    }
+   ],
+   "tax": [
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "CH_001",
+     "name": "Switzerland Airport Passenger Security And Noise Charge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "UP_001",
+     "name": "Ireland Passenger Charge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "RD_002",
+     "name": "Germany Passenger Service Charge Domestic Departure"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "RD_001",
+     "name": "Germany Passenger Service Charge Domestic Arrival"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "UB_001",
+     "name": "United Kingdom Passenger Service Charge Departures"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "YQ_F",
+     "name": "EI YQ surcharge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "YR_I",
+     "name": "LX YR surcharge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "YQ_I",
+     "name": "LX YQ surcharge"
+    },
+    {
+     "kind": "qpxexpress#taxData",
+     "id": "RA_001",
+     "name": "Germany Passenger Service Charge International Arrival"
+    }
+   ],
+   "carrier": [
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "BA",
+     "name": "British Airways p.l.c."
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "EI",
+     "name": "Aer Lingus Limited"
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "LH",
+     "name": "Deutsche Lufthansa AG"
+    },
+    {
+     "kind": "qpxexpress#carrierData",
+     "code": "LX",
+     "name": "SWISS"
+    }
+   ]
+  },
+  "tripOption": [
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "IND365.76",
+    "id": "9LZ3W0r6JnMN5x9Tv0BYNE001",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 120,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 120,
+        "flight": {
+         "carrier": "BA",
+         "number": "2126"
+        },
+        "id": "GvvfH4wJV-pyl02+",
+        "cabin": "COACH",
+        "bookingCode": "B",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LGqB824lgVrbzw1H",
+          "aircraft": "320",
+          "arrivalTime": "2017-06-08T09:50+02:00",
+          "departureTime": "2017-06-08T06:50+01:00",
+          "origin": "DUB",
+          "destination": "HAM",
+          "originTerminal": "2",
+          "destinationTerminal": "1",
+          "duration": 120,
+          "operatingDisclosure": "OPERATED BY AER LINGUS",
+          "mileage": 666,
+          "meal": "Food and Beverages for Purchase"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AOBYlib6B1am/Ge53d7CCGyb1nROXm+oUvr2T5M3gqbg",
+        "carrier": "BA",
+        "origin": "DUB",
+        "destination": "HAM",
+        "basisCode": "BHEIHO"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AOBYlib6B1am/Ge53d7CCGyb1nROXm+oUvr2T5M3gqbg",
+        "segmentId": "GvvfH4wJV-pyl02+"
+       }
+      ],
+      "baseFareTotal": "IND352.00",
+      "saleFareTotal": "IND352.00",
+      "saleTaxTotal": "IND13.76",
+      "saleTotal": "IND365.76",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "UP_001",
+        "chargeType": "GOVERNMENT",
+        "code": "UP",
+        "country": "IE",
+        "salePrice": "IND13.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RA_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RA",
+        "country": "DE",
+        "salePrice": "IND0.06"
+       }
+      ],
+      "fareCalculation": "DUB BA HAM 372.49BHEIHO NUC 372.49 END ROE 0.944989 FARE IND 352.00 XT 13.70UP 0.06RA",
+      "latestTicketingTime": "2017-06-08T04:16-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "IND376.51",
+    "id": "9LZ3W0r6JnMN5x9Tv0BYNE006",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 360,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 130,
+        "flight": {
+         "carrier": "LX",
+         "number": "401"
+        },
+        "id": "GRDYP8GMiaHlEkX+",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LlSMa5HwoW-YrwDa",
+          "aircraft": "321",
+          "arrivalTime": "2017-06-08T14:25+02:00",
+          "departureTime": "2017-06-08T11:15+01:00",
+          "origin": "DUB",
+          "destination": "ZRH",
+          "originTerminal": "1",
+          "duration": 130,
+          "mileage": 768,
+          "meal": "Snack or Brunch"
+         }
+        ],
+        "connectionDuration": 145
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 85,
+        "flight": {
+         "carrier": "LX",
+         "number": "1058"
+        },
+        "id": "GA6PoSBvY5aBNcDv",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "Lf5NP3aBFMr8jthC",
+          "aircraft": "320",
+          "arrivalTime": "2017-06-08T18:15+02:00",
+          "departureTime": "2017-06-08T16:50+02:00",
+          "origin": "ZRH",
+          "destination": "HAM",
+          "destinationTerminal": "2",
+          "duration": 85,
+          "mileage": 430,
+          "meal": "Snack or Brunch"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "ACYl84D5sQMSGqLG5n3Xba6Z6gdcC/7Wn57ZjcnmUoeo",
+        "carrier": "LX",
+        "origin": "DUB",
+        "destination": "HAM",
+        "basisCode": "V12CLS9"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "ACYl84D5sQMSGqLG5n3Xba6Z6gdcC/7Wn57ZjcnmUoeo",
+        "segmentId": "GRDYP8GMiaHlEkX+"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "ACYl84D5sQMSGqLG5n3Xba6Z6gdcC/7Wn57ZjcnmUoeo",
+        "segmentId": "GA6PoSBvY5aBNcDv"
+       }
+      ],
+      "baseFareTotal": "IND282.00",
+      "saleFareTotal": "IND282.00",
+      "saleTaxTotal": "IND94.51",
+      "saleTotal": "IND376.51",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RA_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RA",
+        "country": "DE",
+        "salePrice": "IND0.06"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CH_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CH",
+        "country": "CH",
+        "salePrice": "IND14.75"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "IND50.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "UP_001",
+        "chargeType": "GOVERNMENT",
+        "code": "UP",
+        "country": "IE",
+        "salePrice": "IND13.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "IND16.00"
+       }
+      ],
+      "fareCalculation": "DUB LX X/ZRH LX HAM 298.41V12CLS9 NUC 298.41 END ROE 0.944989 FARE IND 282.00 XT 13.70UP 14.75CH 0.06RA 50.00YQ 16.00YR",
+      "latestTicketingTime": "2017-06-08T06:14-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "IND376.51",
+    "id": "9LZ3W0r6JnMN5x9Tv0BYNE008",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 425,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 130,
+        "flight": {
+         "carrier": "LX",
+         "number": "401"
+        },
+        "id": "GRDYP8GMiaHlEkX+",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 4,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LlSMa5HwoW-YrwDa",
+          "aircraft": "321",
+          "arrivalTime": "2017-06-08T14:25+02:00",
+          "departureTime": "2017-06-08T11:15+01:00",
+          "origin": "DUB",
+          "destination": "ZRH",
+          "originTerminal": "1",
+          "duration": 130,
+          "mileage": 768,
+          "meal": "Snack or Brunch"
+         }
+        ],
+        "connectionDuration": 205
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 90,
+        "flight": {
+         "carrier": "LX",
+         "number": "1054"
+        },
+        "id": "GHWBEokG+FuibpFd",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 4,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LG1Bzop01zA8wJlz",
+          "aircraft": "319",
+          "arrivalTime": "2017-06-08T19:20+02:00",
+          "departureTime": "2017-06-08T17:50+02:00",
+          "origin": "ZRH",
+          "destination": "HAM",
+          "destinationTerminal": "2",
+          "duration": 90,
+          "mileage": 430,
+          "meal": "Snack or Brunch"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "ACYl84D5sQMSGqLG5n3Xba6Z6gdcC/7Wn57ZjcnmUoeo",
+        "carrier": "LX",
+        "origin": "DUB",
+        "destination": "HAM",
+        "basisCode": "V12CLS9"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "ACYl84D5sQMSGqLG5n3Xba6Z6gdcC/7Wn57ZjcnmUoeo",
+        "segmentId": "GHWBEokG+FuibpFd"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "ACYl84D5sQMSGqLG5n3Xba6Z6gdcC/7Wn57ZjcnmUoeo",
+        "segmentId": "GRDYP8GMiaHlEkX+"
+       }
+      ],
+      "baseFareTotal": "IND282.00",
+      "saleFareTotal": "IND282.00",
+      "saleTaxTotal": "IND94.51",
+      "saleTotal": "IND376.51",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RA_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RA",
+        "country": "DE",
+        "salePrice": "IND0.06"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "CH_001",
+        "chargeType": "GOVERNMENT",
+        "code": "CH",
+        "country": "CH",
+        "salePrice": "IND14.75"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "IND50.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "UP_001",
+        "chargeType": "GOVERNMENT",
+        "code": "UP",
+        "country": "IE",
+        "salePrice": "IND13.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "IND16.00"
+       }
+      ],
+      "fareCalculation": "DUB LX X/ZRH LX HAM 298.41V12CLS9 NUC 298.41 END ROE 0.944989 FARE IND 282.00 XT 13.70UP 14.75CH 0.06RA 50.00YQ 16.00YR",
+      "latestTicketingTime": "2017-06-08T06:14-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "IND379.14",
+    "id": "9LZ3W0r6JnMN5x9Tv0BYNE009",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 430,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 115,
+        "flight": {
+         "carrier": "LH",
+         "number": "983"
+        },
+        "id": "G2N2EXraFf+-OZXK",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LX3uZkPRHelGfEte",
+          "aircraft": "321",
+          "arrivalTime": "2017-06-08T08:50+02:00",
+          "departureTime": "2017-06-08T05:55+01:00",
+          "origin": "DUB",
+          "destination": "FRA",
+          "originTerminal": "1",
+          "destinationTerminal": "1",
+          "duration": 115,
+          "mileage": 675,
+          "meal": "Snack or Brunch"
+         }
+        ],
+        "connectionDuration": 250
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 65,
+        "flight": {
+         "carrier": "LH",
+         "number": "16"
+        },
+        "id": "GG+PaX5s-0LabUhc",
+        "cabin": "COACH",
+        "bookingCode": "V",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LiaZIwSDrcgi0KwN",
+          "aircraft": "320",
+          "arrivalTime": "2017-06-08T14:05+02:00",
+          "departureTime": "2017-06-08T13:00+02:00",
+          "origin": "FRA",
+          "destination": "HAM",
+          "originTerminal": "1",
+          "destinationTerminal": "2",
+          "duration": 65,
+          "mileage": 255,
+          "meal": "Snack or Brunch"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AvnOVxvgwSPgetQkkeW4mA74lFw8kPFLpJ6udetvO0B/",
+        "carrier": "LH",
+        "origin": "DUB",
+        "destination": "HAM",
+        "basisCode": "V12CLS9"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AvnOVxvgwSPgetQkkeW4mA74lFw8kPFLpJ6udetvO0B/",
+        "segmentId": "GG+PaX5s-0LabUhc"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AvnOVxvgwSPgetQkkeW4mA74lFw8kPFLpJ6udetvO0B/",
+        "segmentId": "G2N2EXraFf+-OZXK"
+       }
+      ],
+      "baseFareTotal": "IND278.00",
+      "saleFareTotal": "IND278.00",
+      "saleTaxTotal": "IND101.14",
+      "saleTotal": "IND379.14",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RD_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RD",
+        "country": "DE",
+        "salePrice": "IND0.06"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RD_002",
+        "chargeType": "GOVERNMENT",
+        "code": "RD",
+        "country": "DE",
+        "salePrice": "IND21.38"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "IND50.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "UP_001",
+        "chargeType": "GOVERNMENT",
+        "code": "UP",
+        "country": "IE",
+        "salePrice": "IND13.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "IND16.00"
+       }
+      ],
+      "fareCalculation": "DUB LH X/FRA LH HAM 294.18V12CLS9 NUC 294.18 END ROE 0.944989 FARE IND 278.00 XT 13.70UP 21.44RD 50.00YQ 16.00YR",
+      "latestTicketingTime": "2017-06-08T04:16-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "IND387.16",
+    "id": "9LZ3W0r6JnMN5x9Tv0BYNE004",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 290,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 100,
+        "flight": {
+         "carrier": "BA",
+         "number": "831"
+        },
+        "id": "GLegE60xIL9Lg9MW",
+        "cabin": "COACH",
+        "bookingCode": "B",
+        "bookingCodeCount": 2,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LAHaNblFumlkROdQ",
+          "aircraft": "319",
+          "arrivalTime": "2017-06-08T09:10+01:00",
+          "departureTime": "2017-06-08T07:30+01:00",
+          "origin": "DUB",
+          "destination": "LHR",
+          "originTerminal": "1",
+          "destinationTerminal": "5",
+          "duration": 100,
+          "mileage": 278,
+          "meal": "Food and Beverages for Purchase"
+         }
+        ],
+        "connectionDuration": 90
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 100,
+        "flight": {
+         "carrier": "BA",
+         "number": "962"
+        },
+        "id": "GsQBMoa8ZjF8b9Hm",
+        "cabin": "COACH",
+        "bookingCode": "B",
+        "bookingCodeCount": 3,
+        "marriedSegmentGroup": "1",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LYTDyc9yivZIlFeD",
+          "aircraft": "320",
+          "arrivalTime": "2017-06-08T13:20+02:00",
+          "departureTime": "2017-06-08T10:40+01:00",
+          "origin": "LHR",
+          "destination": "HAM",
+          "originTerminal": "5",
+          "destinationTerminal": "1",
+          "duration": 100,
+          "mileage": 462,
+          "meal": "Food and Beverages for Purchase"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AjMJoRikSMoPsN+oFSz4FvPljaQ0PV2UK2lFJBr2KlOE",
+        "carrier": "BA",
+        "origin": "DUB",
+        "destination": "HAM",
+        "basisCode": "BHEIV3HO"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AjMJoRikSMoPsN+oFSz4FvPljaQ0PV2UK2lFJBr2KlOE",
+        "segmentId": "GsQBMoa8ZjF8b9Hm"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AjMJoRikSMoPsN+oFSz4FvPljaQ0PV2UK2lFJBr2KlOE",
+        "segmentId": "GLegE60xIL9Lg9MW"
+       }
+      ],
+      "baseFareTotal": "IND352.00",
+      "saleFareTotal": "IND352.00",
+      "saleTaxTotal": "IND35.16",
+      "saleTotal": "IND387.16",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "UP_001",
+        "chargeType": "GOVERNMENT",
+        "code": "UP",
+        "country": "IE",
+        "salePrice": "IND13.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "UB_001",
+        "chargeType": "GOVERNMENT",
+        "code": "UB",
+        "country": "GB",
+        "salePrice": "IND21.40"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RA_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RA",
+        "country": "DE",
+        "salePrice": "IND0.06"
+       }
+      ],
+      "fareCalculation": "DUB BA X/LON BA HAM 372.49BHEIV3HO NUC 372.49 END ROE 0.944989 FARE IND 352.00 XT 13.70UP 21.40UB 0.06RA",
+      "latestTicketingTime": "2017-06-08T04:16-04:00",
+      "ptc": "ADT",
+      "refundable": true
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "IND407.14",
+    "id": "9LZ3W0r6JnMN5x9Tv0BYNE00A",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 370,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 115,
+        "flight": {
+         "carrier": "LH",
+         "number": "983"
+        },
+        "id": "G2N2EXraFf+-OZXK",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LX3uZkPRHelGfEte",
+          "aircraft": "321",
+          "arrivalTime": "2017-06-08T08:50+02:00",
+          "departureTime": "2017-06-08T05:55+01:00",
+          "origin": "DUB",
+          "destination": "FRA",
+          "originTerminal": "1",
+          "destinationTerminal": "1",
+          "duration": 115,
+          "mileage": 675,
+          "meal": "Snack or Brunch"
+         }
+        ],
+        "connectionDuration": 190
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 65,
+        "flight": {
+         "carrier": "LH",
+         "number": "14"
+        },
+        "id": "Gg+15y2ag4WYtLLS",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L93sL75aTn0LP-Kp",
+          "aircraft": "321",
+          "arrivalTime": "2017-06-08T13:05+02:00",
+          "departureTime": "2017-06-08T12:00+02:00",
+          "origin": "FRA",
+          "destination": "HAM",
+          "originTerminal": "1",
+          "destinationTerminal": "2",
+          "duration": 65,
+          "mileage": 255,
+          "meal": "Snack or Brunch"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AQRjntckLBr5V+Lz16AydPtmpBo+HeMqH9LJl4XJ40go",
+        "carrier": "LH",
+        "origin": "DUB",
+        "destination": "HAM",
+        "basisCode": "Q12CLS9"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AQRjntckLBr5V+Lz16AydPtmpBo+HeMqH9LJl4XJ40go",
+        "segmentId": "Gg+15y2ag4WYtLLS"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AQRjntckLBr5V+Lz16AydPtmpBo+HeMqH9LJl4XJ40go",
+        "segmentId": "G2N2EXraFf+-OZXK"
+       }
+      ],
+      "baseFareTotal": "IND288.00",
+      "saleFareTotal": "IND288.00",
+      "saleTaxTotal": "IND119.14",
+      "saleTotal": "IND407.14",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RD_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RD",
+        "country": "DE",
+        "salePrice": "IND0.06"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RD_002",
+        "chargeType": "GOVERNMENT",
+        "code": "RD",
+        "country": "DE",
+        "salePrice": "IND21.38"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "IND68.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "UP_001",
+        "chargeType": "GOVERNMENT",
+        "code": "UP",
+        "country": "IE",
+        "salePrice": "IND13.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "IND16.00"
+       }
+      ],
+      "fareCalculation": "DUB LH X/FRA LH HAM 304.76Q12CLS9 NUC 304.76 END ROE 0.944989 FARE IND 288.00 XT 13.70UP 21.44RD 68.00YQ 16.00YR",
+      "latestTicketingTime": "2017-06-08T04:16-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "IND407.14",
+    "id": "9LZ3W0r6JnMN5x9Tv0BYNE005",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 250,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 115,
+        "flight": {
+         "carrier": "LH",
+         "number": "983"
+        },
+        "id": "G2N2EXraFf+-OZXK",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 2,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LX3uZkPRHelGfEte",
+          "aircraft": "321",
+          "arrivalTime": "2017-06-08T08:50+02:00",
+          "departureTime": "2017-06-08T05:55+01:00",
+          "origin": "DUB",
+          "destination": "FRA",
+          "originTerminal": "1",
+          "destinationTerminal": "1",
+          "duration": 115,
+          "mileage": 675,
+          "meal": "Snack or Brunch"
+         }
+        ],
+        "connectionDuration": 70
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 65,
+        "flight": {
+         "carrier": "LH",
+         "number": "10"
+        },
+        "id": "GfYD4EvhzU4vVdJc",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 2,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LTWrWuJUvtFxG32i",
+          "aircraft": "319",
+          "arrivalTime": "2017-06-08T11:05+02:00",
+          "departureTime": "2017-06-08T10:00+02:00",
+          "origin": "FRA",
+          "destination": "HAM",
+          "originTerminal": "1",
+          "destinationTerminal": "2",
+          "duration": 65,
+          "mileage": 255,
+          "meal": "Snack or Brunch"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AQRjntckLBr5V+Lz16AydPtmpBo+HeMqH9LJl4XJ40go",
+        "carrier": "LH",
+        "origin": "DUB",
+        "destination": "HAM",
+        "basisCode": "Q12CLS9"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AQRjntckLBr5V+Lz16AydPtmpBo+HeMqH9LJl4XJ40go",
+        "segmentId": "G2N2EXraFf+-OZXK"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AQRjntckLBr5V+Lz16AydPtmpBo+HeMqH9LJl4XJ40go",
+        "segmentId": "GfYD4EvhzU4vVdJc"
+       }
+      ],
+      "baseFareTotal": "IND288.00",
+      "saleFareTotal": "IND288.00",
+      "saleTaxTotal": "IND119.14",
+      "saleTotal": "IND407.14",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RD_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RD",
+        "country": "DE",
+        "salePrice": "IND0.06"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RD_002",
+        "chargeType": "GOVERNMENT",
+        "code": "RD",
+        "country": "DE",
+        "salePrice": "IND21.38"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "IND68.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "UP_001",
+        "chargeType": "GOVERNMENT",
+        "code": "UP",
+        "country": "IE",
+        "salePrice": "IND13.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "IND16.00"
+       }
+      ],
+      "fareCalculation": "DUB LH X/FRA LH HAM 304.76Q12CLS9 NUC 304.76 END ROE 0.944989 FARE IND 288.00 XT 13.70UP 21.44RD 68.00YQ 16.00YR",
+      "latestTicketingTime": "2017-06-08T04:16-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "IND407.14",
+    "id": "9LZ3W0r6JnMN5x9Tv0BYNE003",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 235,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 120,
+        "flight": {
+         "carrier": "LH",
+         "number": "979"
+        },
+        "id": "GzCHKSrMLFp18SpX",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 5,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LLktHBtM3H0Fy8T7",
+          "aircraft": "321",
+          "arrivalTime": "2017-06-08T15:10+02:00",
+          "departureTime": "2017-06-08T12:10+01:00",
+          "origin": "DUB",
+          "destination": "FRA",
+          "originTerminal": "1",
+          "destinationTerminal": "1",
+          "duration": 120,
+          "mileage": 675,
+          "meal": "Snack or Brunch"
+         }
+        ],
+        "connectionDuration": 50
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 65,
+        "flight": {
+         "carrier": "LH",
+         "number": "22"
+        },
+        "id": "GZ3Pyfv9D38jdmhR",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 5,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L2WHPNvTeuxxOIiu",
+          "aircraft": "321",
+          "arrivalTime": "2017-06-08T17:05+02:00",
+          "departureTime": "2017-06-08T16:00+02:00",
+          "origin": "FRA",
+          "destination": "HAM",
+          "originTerminal": "1",
+          "destinationTerminal": "2",
+          "duration": 65,
+          "mileage": 255,
+          "meal": "Snack or Brunch"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AQRjntckLBr5V+Lz16AydPtmpBo+HeMqH9LJl4XJ40go",
+        "carrier": "LH",
+        "origin": "DUB",
+        "destination": "HAM",
+        "basisCode": "Q12CLS9"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AQRjntckLBr5V+Lz16AydPtmpBo+HeMqH9LJl4XJ40go",
+        "segmentId": "GzCHKSrMLFp18SpX"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AQRjntckLBr5V+Lz16AydPtmpBo+HeMqH9LJl4XJ40go",
+        "segmentId": "GZ3Pyfv9D38jdmhR"
+       }
+      ],
+      "baseFareTotal": "IND288.00",
+      "saleFareTotal": "IND288.00",
+      "saleTaxTotal": "IND119.14",
+      "saleTotal": "IND407.14",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RD_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RD",
+        "country": "DE",
+        "salePrice": "IND0.06"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RD_002",
+        "chargeType": "GOVERNMENT",
+        "code": "RD",
+        "country": "DE",
+        "salePrice": "IND21.38"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "IND68.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "UP_001",
+        "chargeType": "GOVERNMENT",
+        "code": "UP",
+        "country": "IE",
+        "salePrice": "IND13.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "IND16.00"
+       }
+      ],
+      "fareCalculation": "DUB LH X/FRA LH HAM 304.76Q12CLS9 NUC 304.76 END ROE 0.944989 FARE IND 288.00 XT 13.70UP 21.44RD 68.00YQ 16.00YR",
+      "latestTicketingTime": "2017-06-08T07:09-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "IND407.14",
+    "id": "9LZ3W0r6JnMN5x9Tv0BYNE007",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 310,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 115,
+        "flight": {
+         "carrier": "LH",
+         "number": "983"
+        },
+        "id": "G2N2EXraFf+-OZXK",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "LX3uZkPRHelGfEte",
+          "aircraft": "321",
+          "arrivalTime": "2017-06-08T08:50+02:00",
+          "departureTime": "2017-06-08T05:55+01:00",
+          "origin": "DUB",
+          "destination": "FRA",
+          "originTerminal": "1",
+          "destinationTerminal": "1",
+          "duration": 115,
+          "mileage": 675,
+          "meal": "Snack or Brunch"
+         }
+        ],
+        "connectionDuration": 130
+       },
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 65,
+        "flight": {
+         "carrier": "LH",
+         "number": "12"
+        },
+        "id": "Gpc3mANb8DWEZKDC",
+        "cabin": "COACH",
+        "bookingCode": "Q",
+        "bookingCodeCount": 9,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "L0FE8qreakK7h6O0",
+          "aircraft": "32A",
+          "arrivalTime": "2017-06-08T12:05+02:00",
+          "departureTime": "2017-06-08T11:00+02:00",
+          "origin": "FRA",
+          "destination": "HAM",
+          "originTerminal": "1",
+          "destinationTerminal": "2",
+          "duration": 65,
+          "mileage": 255,
+          "meal": "Snack or Brunch"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AQRjntckLBr5V+Lz16AydPtmpBo+HeMqH9LJl4XJ40go",
+        "carrier": "LH",
+        "origin": "DUB",
+        "destination": "HAM",
+        "basisCode": "Q12CLS9"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AQRjntckLBr5V+Lz16AydPtmpBo+HeMqH9LJl4XJ40go",
+        "segmentId": "Gpc3mANb8DWEZKDC"
+       },
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AQRjntckLBr5V+Lz16AydPtmpBo+HeMqH9LJl4XJ40go",
+        "segmentId": "G2N2EXraFf+-OZXK"
+       }
+      ],
+      "baseFareTotal": "IND288.00",
+      "saleFareTotal": "IND288.00",
+      "saleTaxTotal": "IND119.14",
+      "saleTotal": "IND407.14",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RD_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RD",
+        "country": "DE",
+        "salePrice": "IND0.06"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RD_002",
+        "chargeType": "GOVERNMENT",
+        "code": "RD",
+        "country": "DE",
+        "salePrice": "IND21.38"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "IND68.00"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "UP_001",
+        "chargeType": "GOVERNMENT",
+        "code": "UP",
+        "country": "IE",
+        "salePrice": "IND13.70"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "IND16.00"
+       }
+      ],
+      "fareCalculation": "DUB LH X/FRA LH HAM 304.76Q12CLS9 NUC 304.76 END ROE 0.944989 FARE IND 288.00 XT 13.70UP 21.44RD 68.00YQ 16.00YR",
+      "latestTicketingTime": "2017-06-08T04:16-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   },
+   {
+    "kind": "qpxexpress#tripOption",
+    "saleTotal": "IND468.11",
+    "id": "9LZ3W0r6JnMN5x9Tv0BYNE002",
+    "slice": [
+     {
+      "kind": "qpxexpress#sliceInfo",
+      "duration": 120,
+      "segment": [
+       {
+        "kind": "qpxexpress#segmentInfo",
+        "duration": 120,
+        "flight": {
+         "carrier": "EI",
+         "number": "392"
+        },
+        "id": "GSI5z35tVJaTK8cj",
+        "cabin": "COACH",
+        "bookingCode": "C",
+        "bookingCodeCount": 4,
+        "marriedSegmentGroup": "0",
+        "leg": [
+         {
+          "kind": "qpxexpress#legInfo",
+          "id": "Lliz7Yynpj6t1oGH",
+          "aircraft": "320",
+          "arrivalTime": "2017-06-08T09:50+02:00",
+          "departureTime": "2017-06-08T06:50+01:00",
+          "origin": "DUB",
+          "destination": "HAM",
+          "originTerminal": "2",
+          "destinationTerminal": "1",
+          "duration": 120,
+          "mileage": 666,
+          "meal": "Food and Beverages for Purchase"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "pricing": [
+     {
+      "kind": "qpxexpress#pricingInfo",
+      "fare": [
+       {
+        "kind": "qpxexpress#fareInfo",
+        "id": "AsgBssIsLtslBKhm1ikyuqUXfsnPyvwKNQeG4r1vktsk",
+        "carrier": "EI",
+        "origin": "DUB",
+        "destination": "HAM",
+        "basisCode": "CF26FLX3"
+       }
+      ],
+      "segmentPricing": [
+       {
+        "kind": "qpxexpress#segmentPricing",
+        "fareId": "AsgBssIsLtslBKhm1ikyuqUXfsnPyvwKNQeG4r1vktsk",
+        "segmentId": "GSI5z35tVJaTK8cj"
+       }
+      ],
+      "baseFareTotal": "IND409.00",
+      "saleFareTotal": "IND409.00",
+      "saleTaxTotal": "IND59.11",
+      "saleTotal": "IND468.11",
+      "passengers": {
+       "kind": "qpxexpress#passengerCounts",
+       "adultCount": 1
+      },
+      "tax": [
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "RA_001",
+        "chargeType": "GOVERNMENT",
+        "code": "RA",
+        "country": "DE",
+        "salePrice": "IND0.06"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "UP_001",
+        "chargeType": "GOVERNMENT",
+        "code": "UP",
+        "country": "IE",
+        "salePrice": "IND16.95"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YQ_F",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YQ",
+        "salePrice": "IND19.10"
+       },
+       {
+        "kind": "qpxexpress#taxInfo",
+        "id": "YR_I",
+        "chargeType": "CARRIER_SURCHARGE",
+        "code": "YR",
+        "salePrice": "IND23.00"
+       }
+      ],
+      "fareCalculation": "DUB EI HAM 432.80CF26FLX3 NUC 432.80 END ROE 0.944989 FARE IND 409.00 XT 16.95UP 0.06RA 19.10YQ 23.00YR",
+      "latestTicketingTime": "2017-06-08T04:16-04:00",
+      "ptc": "ADT"
+     }
+    ]
+   }
+  ]
+ }
+}

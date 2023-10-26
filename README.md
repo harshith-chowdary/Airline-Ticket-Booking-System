@@ -7,7 +7,7 @@ After extracting the project file:
     - npm run start
 
 2. Starting the React app :
-    - cd ../client
+    - cd ./client
     - npm start
 
 3. Starting http server (for Bookings Requests) :
